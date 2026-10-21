@@ -1,0 +1,18 @@
+Assets/archer.png
+FrameSize 30 31
+HotSpot 15 4
+Frame 0 0
+Frame 30 0
+Frame 63 0 
+Frame 94 0
+Frame 0 28
+Frame 33 28
+Frame 64 28 
+Frame 93 28
+Frame 0 90
+Frame 28 90
+NumFrames 10
+Anim Assets/archerIdle.anm
+Anim Assets/archerRunning.anm
+Anim Assets/archerDead.anm
+RectCollision -15 0 15 27

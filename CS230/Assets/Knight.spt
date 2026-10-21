@@ -1,0 +1,27 @@
+Assets/Knight.png
+FrameSize 106 93
+HotSpot 54 0
+Frame 0 0
+Frame 122 0
+Frame 122 445
+Frame 242 445
+Frame 364 445
+Frame 484 445
+Frame 607 445
+Frame 745 445
+Frame 847 445
+Frame 969 445
+Frame 1089 445
+Frame 0 333 
+Frame 67 333
+Frame 258 333
+Frame 371 333
+Frame 492 333
+Frame 613 333
+NumFrames 17
+Anim Assets/KnightIdle.anm
+Anim Assets/KnightJumping.anm
+Anim Assets/KnightDead.anm
+Anim Assets/KnightAttack.anm
+Anim Assets/KnightFalling.anm
+RectCollision -27 0 33 53

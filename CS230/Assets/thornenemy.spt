@@ -1,0 +1,7 @@
+Assets/thornenemy.png
+FrameSize 126 100
+HotSpot 43 0
+Frame 0 0
+NumFrames 1
+Anim Assets/None.anm
+RectCollision -30 0 34 59

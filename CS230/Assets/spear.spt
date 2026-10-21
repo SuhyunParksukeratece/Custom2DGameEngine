@@ -1,0 +1,18 @@
+Assets/spear.png
+FrameSize 44 41
+HotSpot 22 5
+Frame 0 0
+Frame 51 0
+Frame 94 0
+Frame 145 0
+Frame 195 0
+Frame 0 42
+Frame 50 42
+Frame 0 85
+Frame 51 85
+Frame 94 87
+NumFrames 10
+Anim Assets/spearIdle.anm
+Anim Assets/spearRunning.anm
+Anim Assets/spearDead.anm
+RectCollision -22 0 15 35

@@ -1,0 +1,18 @@
+Assets/pony.png
+FrameSize 32 31
+HotSpot 17 4
+Frame 0 0
+Frame 33 0
+Frame 66 0
+Frame 100 0
+Frame 134 0
+Frame 167 0
+Frame 201 0
+Frame 0 31
+Frame 33 31
+Frame 64 40
+NumFrames 10
+Anim Assets/ponyIdle.anm
+Anim Assets/ponyRunning.anm
+Anim Assets/ponyDead.anm
+RectCollision -16 0 16 31

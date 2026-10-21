@@ -1,0 +1,28 @@
+Assets/Fireenemy.png
+HotSpot 21 7
+FrameSize 43 59
+Frame 0 262
+Frame 43 262
+Frame 87 262
+Frame 132 262
+Frame 222 262
+Frame 266 262
+Frame 0 184
+Frame 85 184
+Frame 130 184
+Frame 172 184
+Frame 212 184
+Frame 255 184
+Frame 297 184
+Frame 337 184
+Frame 261 43
+Frame 314 43
+Frame 364 43
+Frame 427 43
+Frame 481 43
+NumFrames 19
+RectCollision -19 -6 20 60
+Anim Assets/None.anm
+Anim Assets/FireenemyDead.anm
+Anim Assets/FireenemyWalking.anm
+Anim Assets/FireenemyAngry.anm

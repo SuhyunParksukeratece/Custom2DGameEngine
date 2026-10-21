@@ -1,0 +1,8 @@
+Assets/dead_particle.png
+HotSpot 36 32
+FrameSize 87 64
+Frame 0 0
+Frame 87 0
+Frame 164 0
+Frame 271 0
+Anim Assets/dead_particle.anm
